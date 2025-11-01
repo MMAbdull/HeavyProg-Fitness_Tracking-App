@@ -4,6 +4,6 @@ from . import views
 
 urlpatterns = [
 
-    path('registration/Signin',views.signin,name='signin')
+    
    
 ]
